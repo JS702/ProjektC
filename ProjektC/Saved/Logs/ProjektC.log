@@ -1520,3 +1520,708 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.16-14.15.04:779][812]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2023.04.16-14.15.04:781][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
 [2023.04.16-14.15.04:798][813]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.04.16-14.20.39:330][277]BlueprintLog: New page: Compile Gewehr98
+[2023.04.16-14.20.39:442][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.04.16-14.20.40:883][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.20.40:974][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Gewehr98" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset" SILENT=true
+[2023.04.16-14.20.41:019][418]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/Gewehr98
+[2023.04.16-14.20.41:019][418]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/Gewehr98ECC0B371481E18ABAE3781B7CA6187A9.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset'
+[2023.04.16-14.20.41:024][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 968 ms)
+[2023.04.16-14.20.41:034][418]AssetCheck: New page: Asset Save: Gewehr98
+[2023.04.16-14.20.41:034][418]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/Gewehr98.Gewehr98
+[2023.04.16-14.22.13:119][891]BlueprintLog: New page: Compile Gewehr98
+[2023.04.16-14.22.13:225][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.04.16-14.22.14:387][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.22.14:489][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Gewehr98" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset" SILENT=true
+[2023.04.16-14.22.14:529][996]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/Gewehr98
+[2023.04.16-14.22.14:529][996]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/Gewehr984FE857D24B1D7E2F440AB0A8A30D666A.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset'
+[2023.04.16-14.22.14:534][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 1.11 sec)
+[2023.04.16-14.22.14:541][996]AssetCheck: New page: Asset Save: Gewehr98
+[2023.04.16-14.22.14:541][996]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/Gewehr98.Gewehr98
+[2023.04.16-14.22.15:971][155]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.04.16-14.22.15:975][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-14.22.15:975][155]PIE: New page: PIE session: VRTemplateMap (16.04.2023, 18:22:15)
+[2023.04.16-14.22.15:975][155]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.16-14.22.15:982][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006884s)
+[2023.04.16-14.22.15:982][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.006909s)
+[2023.04.16-14.22.15:982][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-14.22.15:983][155]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.04.16-14.22.15:983][155]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2023.04.16-14.22.16:020][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.04.16-14.22.16:021][155]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.04.16-14.22.16:021][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-14.22.16:021][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-14.22.16:021][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-14.22.16:021][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-14.22.16:021][155]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-14.22.16:021][155]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-14.22.16:021][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-14.22.16:021][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-14.22.16:022][155]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.04.16-14.22.16:022][155]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.04.16-14.22.16:022][155]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-14.22.16:024][155]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-14.22.16:052][155]LogAudioMixer: Error: XAudio2 Error: Result -> 0x88890008: AUDCLNT_E_UNSUPPORTED_FORMAT (line: 1354)
+[2023.04.16-14.22.16:052][155]LogAudioMixer: Display: Using Audio Hardware Device VIVE Pro (High Definition Audio Device)
+[2023.04.16-14.22.16:053][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-14.22.16:053][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-14.22.16:053][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-14.22.16:053][155]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.04.16-14.22.16:053][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.04.16-14.22.16:055][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.04.16-14.22.16:055][155]LogInit: FAudioDevice initialized.
+[2023.04.16-14.22.16:055][155]LogAudio: Display: Audio Device (ID: 6) registered with world 'VRTemplateMap'.
+[2023.04.16-14.22.16:055][155]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4128
+[2023.04.16-14.22.16:055][155]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=6
+[2023.04.16-14.22.16:065][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-14.22.19:095][155]LogLoad: Game class is 'VRGameMode_C'
+[2023.04.16-14.22.19:101][155]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.04.16-16.22.19
+[2023.04.16-14.22.19:101][155]LogWorld: Bringing up level for play took: 0.005970
+[2023.04.16-14.22.19:104][155]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.04.16-14.22.19:107][155]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.04.16-14.22.19:110][155]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.04.16-14.22.19:111][155]Cmd: vr.PixelDensity 1.0
+[2023.04.16-14.22.19:111][155]vr.PixelDensity = "1"
+[2023.04.16-14.22.19:120][155]PIE: Server logged in
+[2023.04.16-14.22.19:127][155]PIE: Play in editor total start time 3,151 seconds.
+[2023.04.16-14.22.19:164][155]LogViewport: Scene viewport resized to 4936x2740, mode Windowed.
+[2023.04.16-14.22.19:256][155]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.04.16-14.22.19:282][155]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.04.16-14.22.36:507][669]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.22.36:507][669]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.22.37:345][745]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.22.38:356][836]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.22.39:089][902]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.22.40:689][ 46]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.22.43:408][267]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.22.44:941][405]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.22.47:265][614]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.22.58:957][667]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.23.22:402][683]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.23.22:402][683]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.23.22:991][736]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.23.23:679][798]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.23.24:401][863]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.23.30:799][437]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.23.31:520][502]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.23.34:419][763]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.23.38:495][130]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.23.41:982][444]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.23.41:982][444]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.23.42:428][484]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.23.42:982][534]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.23.54:309][554]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.23.56:922][789]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.24.00:396][102]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.24.03:694][399]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.24.03:694][399]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.24.04:243][448]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.24.18:104][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-14.24.18:104][575]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.16-14.24.18:135][575]LogSlate: Window 'ProjektC Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR SteamVR/OpenXR (0.1.0)' being destroyed
+[2023.04.16-14.24.18:138][575]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-14.24.18:138][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-14.24.18:140][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-14.24.18:149][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-14.24.18:186][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-14.24.18:187][575]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.04.16-14.24.18:187][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.04.16-14.24.18:188][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.04.16-14.24.18:191][575]LogSlate: Slate User Unregistered.  User Index 8
+[2023.04.16-14.24.18:191][575]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.04.16-14.24.18:193][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.04.16-14.24.18:215][576]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.04.16-14.25.52:756][439]BlueprintLog: New page: Compile Gewehr98
+[2023.04.16-14.25.52:862][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.16-14.25.54:393][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.25.54:512][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Gewehr98" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset" SILENT=true
+[2023.04.16-14.25.54:551][574]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/Gewehr98
+[2023.04.16-14.25.54:551][574]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/Gewehr98E6BE474C41B859C60CFFDCA5CA8C0364.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset'
+[2023.04.16-14.25.54:556][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 1.27 sec)
+[2023.04.16-14.25.54:565][574]AssetCheck: New page: Asset Save: Gewehr98
+[2023.04.16-14.25.54:565][574]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/Gewehr98.Gewehr98
+[2023.04.16-14.25.57:594][859]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.04.16-14.25.57:598][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-14.25.57:598][859]PIE: New page: PIE session: VRTemplateMap (16.04.2023, 18:25:57)
+[2023.04.16-14.25.57:598][859]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.16-14.25.57:605][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007187s)
+[2023.04.16-14.25.57:605][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007211s)
+[2023.04.16-14.25.57:605][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-14.25.57:605][859]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.04.16-14.25.57:606][859]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2023.04.16-14.25.57:642][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.04.16-14.25.57:643][859]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.16-14.25.57:643][859]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-14.25.57:643][859]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-14.25.57:643][859]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-14.25.57:643][859]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-14.25.57:643][859]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-14.25.57:643][859]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-14.25.57:643][859]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-14.25.57:643][859]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-14.25.57:643][859]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.04.16-14.25.57:643][859]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.04.16-14.25.57:643][859]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-14.25.57:645][859]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-14.25.57:673][859]LogAudioMixer: Error: XAudio2 Error: Result -> 0x88890008: AUDCLNT_E_UNSUPPORTED_FORMAT (line: 1354)
+[2023.04.16-14.25.57:673][859]LogAudioMixer: Display: Using Audio Hardware Device VIVE Pro (High Definition Audio Device)
+[2023.04.16-14.25.57:673][859]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-14.25.57:673][859]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-14.25.57:673][859]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-14.25.57:674][859]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.04.16-14.25.57:674][859]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.04.16-14.25.57:675][859]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.04.16-14.25.57:675][859]LogInit: FAudioDevice initialized.
+[2023.04.16-14.25.57:675][859]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19868
+[2023.04.16-14.25.57:675][859]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=7
+[2023.04.16-14.25.57:675][859]LogAudio: Display: Audio Device (ID: 7) registered with world 'VRTemplateMap'.
+[2023.04.16-14.25.57:686][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-14.26.00:216][859]LogLoad: Game class is 'VRGameMode_C'
+[2023.04.16-14.26.00:221][859]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.04.16-16.26.00
+[2023.04.16-14.26.00:221][859]LogWorld: Bringing up level for play took: 0.004497
+[2023.04.16-14.26.00:223][859]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.04.16-14.26.00:226][859]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.04.16-14.26.00:229][859]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.04.16-14.26.00:229][859]Cmd: vr.PixelDensity 1.0
+[2023.04.16-14.26.00:230][859]vr.PixelDensity = "1"
+[2023.04.16-14.26.00:238][859]PIE: Server logged in
+[2023.04.16-14.26.00:244][859]PIE: Play in editor total start time 2,647 seconds.
+[2023.04.16-14.26.00:275][859]LogViewport: Scene viewport resized to 4936x2740, mode Windowed.
+[2023.04.16-14.26.00:373][859]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.04.16-14.26.00:424][859]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.04.16-14.26.16:002][186]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.26.16:002][186]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.26.21:842][682]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.26.22:512][726]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.26.23:186][787]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.26.23:819][844]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.26.43:321][562]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.26.47:020][886]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.26.51:930][305]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.26.51:930][305]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.26.52:595][365]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.27.10:849][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-14.27.10:849][865]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.16-14.27.10:880][865]LogSlate: Window 'ProjektC Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR SteamVR/OpenXR (0.1.0)' being destroyed
+[2023.04.16-14.27.10:883][865]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-14.27.10:883][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-14.27.10:885][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-14.27.10:892][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-14.27.10:932][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-14.27.10:932][865]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.04.16-14.27.10:933][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.04.16-14.27.10:934][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.04.16-14.27.10:937][865]LogSlate: Slate User Unregistered.  User Index 8
+[2023.04.16-14.27.10:937][865]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.04.16-14.27.10:939][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.16-14.27.10:959][866]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.04.16-14.27.56:039][212]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.04.16-14.27.56:045][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-14.27.56:045][212]PIE: New page: PIE session: VRTemplateMap (16.04.2023, 18:27:56)
+[2023.04.16-14.27.56:045][212]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.16-14.27.56:055][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010408s)
+[2023.04.16-14.27.56:055][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.010439s)
+[2023.04.16-14.27.56:056][212]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-14.27.56:056][212]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.04.16-14.27.56:056][212]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2023.04.16-14.27.56:100][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.04.16-14.27.56:100][212]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.16-14.27.56:101][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-14.27.56:101][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-14.27.56:101][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-14.27.56:101][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-14.27.56:101][212]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-14.27.56:101][212]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-14.27.56:101][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-14.27.56:101][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-14.27.56:102][212]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.04.16-14.27.56:102][212]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.04.16-14.27.56:102][212]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-14.27.56:104][212]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-14.27.56:137][212]LogAudioMixer: Error: XAudio2 Error: Result -> 0x88890008: AUDCLNT_E_UNSUPPORTED_FORMAT (line: 1354)
+[2023.04.16-14.27.56:137][212]LogAudioMixer: Display: Using Audio Hardware Device VIVE Pro (High Definition Audio Device)
+[2023.04.16-14.27.56:138][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-14.27.56:138][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-14.27.56:138][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-14.27.56:139][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.04.16-14.27.56:139][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.04.16-14.27.56:140][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.04.16-14.27.56:140][212]LogInit: FAudioDevice initialized.
+[2023.04.16-14.27.56:140][212]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=888
+[2023.04.16-14.27.56:140][212]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=8
+[2023.04.16-14.27.56:140][212]LogAudio: Display: Audio Device (ID: 8) registered with world 'VRTemplateMap'.
+[2023.04.16-14.27.56:160][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-14.27.58:696][212]LogLoad: Game class is 'VRGameMode_C'
+[2023.04.16-14.27.58:700][212]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.04.16-16.27.58
+[2023.04.16-14.27.58:701][212]LogWorld: Bringing up level for play took: 0.004128
+[2023.04.16-14.27.58:703][212]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.04.16-14.27.58:707][212]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.04.16-14.27.58:708][212]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.04.16-14.27.58:710][212]Cmd: vr.PixelDensity 1.0
+[2023.04.16-14.27.58:710][212]vr.PixelDensity = "1"
+[2023.04.16-14.27.58:717][212]PIE: Server logged in
+[2023.04.16-14.27.58:724][212]PIE: Play in editor total start time 2,681 seconds.
+[2023.04.16-14.27.58:765][212]LogViewport: Scene viewport resized to 4936x2740, mode Windowed.
+[2023.04.16-14.27.58:862][212]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.04.16-14.27.58:888][212]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.04.16-14.28.10:827][259]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.28.10:827][259]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.28.12:681][403]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.28.13:348][463]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.28.17:646][850]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.28.19:044][976]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.28.19:621][ 27]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.28.23:687][393]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.28.23:687][393]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.28.24:309][434]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.28.39:427][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-14.28.39:427][640]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.16-14.28.39:449][640]LogSlate: Window 'ProjektC Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR SteamVR/OpenXR (0.1.0)' being destroyed
+[2023.04.16-14.28.39:452][640]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-14.28.39:452][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-14.28.39:454][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-14.28.39:462][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-14.28.39:504][640]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.04.16-14.28.39:504][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.04.16-14.28.39:506][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.04.16-14.28.39:508][640]LogSlate: Slate User Unregistered.  User Index 8
+[2023.04.16-14.28.39:508][640]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.04.16-14.28.39:510][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.04.16-14.28.39:526][641]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.04.16-14.32.12:846][972]BlueprintLog: New page: Compile Gewehr98
+[2023.04.16-14.32.12:965][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.16-14.32.14:099][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.32.14:217][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Gewehr98" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset" SILENT=true
+[2023.04.16-14.32.14:256][ 57]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/Gewehr98
+[2023.04.16-14.32.14:256][ 57]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/Gewehr984B6C1B0D4F8D027CD8D3BF9EB3522C6B.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset'
+[2023.04.16-14.32.14:262][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 1.44 sec)
+[2023.04.16-14.32.14:271][ 57]AssetCheck: New page: Asset Save: Gewehr98
+[2023.04.16-14.32.14:271][ 57]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/Gewehr98.Gewehr98
+[2023.04.16-14.32.15:868][211]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.04.16-14.32.15:873][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-14.32.15:873][211]PIE: New page: PIE session: VRTemplateMap (16.04.2023, 18:32:15)
+[2023.04.16-14.32.15:873][211]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.16-14.32.15:880][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007435s)
+[2023.04.16-14.32.15:880][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007469s)
+[2023.04.16-14.32.15:880][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-14.32.15:881][211]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.04.16-14.32.15:881][211]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2023.04.16-14.32.15:919][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.04.16-14.32.15:920][211]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.16-14.32.15:920][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-14.32.15:921][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-14.32.15:921][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-14.32.15:921][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-14.32.15:921][211]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-14.32.15:921][211]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-14.32.15:921][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-14.32.15:921][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-14.32.15:921][211]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.04.16-14.32.15:921][211]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.04.16-14.32.15:921][211]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-14.32.15:923][211]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-14.32.15:952][211]LogAudioMixer: Error: XAudio2 Error: Result -> 0x88890008: AUDCLNT_E_UNSUPPORTED_FORMAT (line: 1354)
+[2023.04.16-14.32.15:952][211]LogAudioMixer: Display: Using Audio Hardware Device VIVE Pro (High Definition Audio Device)
+[2023.04.16-14.32.15:952][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-14.32.15:952][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-14.32.15:952][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-14.32.15:953][211]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.04.16-14.32.15:954][211]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.04.16-14.32.15:955][211]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.04.16-14.32.15:955][211]LogInit: FAudioDevice initialized.
+[2023.04.16-14.32.15:955][211]LogAudio: Display: Audio Device (ID: 9) registered with world 'VRTemplateMap'.
+[2023.04.16-14.32.15:955][211]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=2348
+[2023.04.16-14.32.15:955][211]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=9
+[2023.04.16-14.32.15:965][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-14.32.18:494][211]LogLoad: Game class is 'VRGameMode_C'
+[2023.04.16-14.32.18:499][211]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.04.16-16.32.18
+[2023.04.16-14.32.18:499][211]LogWorld: Bringing up level for play took: 0.004796
+[2023.04.16-14.32.18:502][211]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.04.16-14.32.18:505][211]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.04.16-14.32.18:507][211]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.04.16-14.32.18:509][211]Cmd: vr.PixelDensity 1.0
+[2023.04.16-14.32.18:509][211]vr.PixelDensity = "1"
+[2023.04.16-14.32.18:520][211]PIE: Server logged in
+[2023.04.16-14.32.18:526][211]PIE: Play in editor total start time 2,653 seconds.
+[2023.04.16-14.32.18:570][211]LogViewport: Scene viewport resized to 4936x2740, mode Windowed.
+[2023.04.16-14.32.18:710][211]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.04.16-14.32.18:736][211]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.04.16-14.32.35:217][663]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.32.35:217][663]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.32.36:094][732]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.32.36:882][790]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.32.37:749][868]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.32.59:194][707]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.33.03:170][ 19]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.33.04:770][163]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.33.05:326][213]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.33.06:080][281]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.33.07:313][392]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.33.23:455][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-14.33.23:455][675]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.16-14.33.23:483][675]LogSlate: Window 'ProjektC Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR SteamVR/OpenXR (0.1.0)' being destroyed
+[2023.04.16-14.33.23:485][675]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-14.33.23:486][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-14.33.23:488][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-14.33.23:494][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-14.33.23:533][675]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-14.33.23:533][675]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.04.16-14.33.23:533][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.04.16-14.33.23:535][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.04.16-14.33.23:538][675]LogSlate: Slate User Unregistered.  User Index 8
+[2023.04.16-14.33.23:538][675]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.04.16-14.33.23:539][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.04.16-14.33.23:558][676]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.04.16-14.35.10:706][152]BlueprintLog: New page: Compile Gewehr98
+[2023.04.16-14.35.10:817][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.04.16-14.35.12:046][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.35.12:172][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Gewehr98" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset" SILENT=true
+[2023.04.16-14.35.12:213][272]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/Gewehr98
+[2023.04.16-14.35.12:214][272]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/Gewehr981F338C9840308DA573C8C0A2F4F70D3F.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset'
+[2023.04.16-14.35.12:219][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 1.61 sec)
+[2023.04.16-14.35.12:226][272]AssetCheck: New page: Asset Save: Gewehr98
+[2023.04.16-14.35.12:226][272]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/Gewehr98.Gewehr98
+[2023.04.16-14.35.13:958][472]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.04.16-14.35.13:962][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-14.35.13:962][472]PIE: New page: PIE session: VRTemplateMap (16.04.2023, 18:35:13)
+[2023.04.16-14.35.13:962][472]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.16-14.35.13:969][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006381s)
+[2023.04.16-14.35.13:969][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.006419s)
+[2023.04.16-14.35.13:969][472]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-14.35.13:969][472]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.04.16-14.35.13:969][472]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2023.04.16-14.35.14:006][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.04.16-14.35.14:007][472]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.04.16-14.35.14:007][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-14.35.14:008][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-14.35.14:008][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-14.35.14:008][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-14.35.14:008][472]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-14.35.14:008][472]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-14.35.14:008][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-14.35.14:008][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-14.35.14:008][472]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.04.16-14.35.14:008][472]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.04.16-14.35.14:008][472]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-14.35.14:010][472]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-14.35.14:038][472]LogAudioMixer: Error: XAudio2 Error: Result -> 0x88890008: AUDCLNT_E_UNSUPPORTED_FORMAT (line: 1354)
+[2023.04.16-14.35.14:038][472]LogAudioMixer: Display: Using Audio Hardware Device VIVE Pro (High Definition Audio Device)
+[2023.04.16-14.35.14:038][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-14.35.14:038][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-14.35.14:038][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-14.35.14:040][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.04.16-14.35.14:040][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.04.16-14.35.14:041][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.04.16-14.35.14:041][472]LogInit: FAudioDevice initialized.
+[2023.04.16-14.35.14:041][472]LogAudio: Display: Audio Device (ID: 10) registered with world 'VRTemplateMap'.
+[2023.04.16-14.35.14:041][472]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7636
+[2023.04.16-14.35.14:041][472]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=10
+[2023.04.16-14.35.14:053][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-14.35.17:081][472]LogLoad: Game class is 'VRGameMode_C'
+[2023.04.16-14.35.17:085][472]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.04.16-16.35.17
+[2023.04.16-14.35.17:085][472]LogWorld: Bringing up level for play took: 0.003825
+[2023.04.16-14.35.17:088][472]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.04.16-14.35.17:091][472]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.04.16-14.35.17:093][472]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.04.16-14.35.17:094][472]Cmd: vr.PixelDensity 1.0
+[2023.04.16-14.35.17:094][472]vr.PixelDensity = "1"
+[2023.04.16-14.35.17:102][472]PIE: Server logged in
+[2023.04.16-14.35.17:107][472]PIE: Play in editor total start time 3,146 seconds.
+[2023.04.16-14.35.17:143][472]LogViewport: Scene viewport resized to 4936x2740, mode Windowed.
+[2023.04.16-14.35.17:242][472]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.04.16-14.35.17:268][472]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.04.16-14.35.28:882][464]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.35.28:882][464]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.35.29:548][517]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.35.30:216][560]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.35.30:814][614]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.35.41:854][608]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.35.41:854][608]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.35.52:660][489]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.35.53:104][529]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.35.58:369][980]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.36.04:842][540]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.36.04:842][540]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.36.08:120][835]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.36.31:780][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-14.36.31:780][786]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.16-14.36.31:802][786]LogSlate: Window 'ProjektC Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR SteamVR/OpenXR (0.1.0)' being destroyed
+[2023.04.16-14.36.31:805][786]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-14.36.31:805][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-14.36.31:807][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-14.36.31:813][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-14.36.31:851][786]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.16-14.36.31:851][786]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.04.16-14.36.31:852][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.04.16-14.36.31:853][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.04.16-14.36.31:856][786]LogSlate: Slate User Unregistered.  User Index 8
+[2023.04.16-14.36.31:856][786]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.04.16-14.36.31:858][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.04.16-14.36.31:878][787]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.04.16-14.36.35:799][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.36.35:826][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Gewehr98" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset" SILENT=true
+[2023.04.16-14.36.35:870][236]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/Gewehr98
+[2023.04.16-14.36.35:871][236]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/Gewehr98A1F7065D4157A9ACBFD578839E2F396E.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset'
+[2023.04.16-14.36.35:876][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 1.69 sec)
+[2023.04.16-14.36.35:884][236]AssetCheck: New page: Asset Save: Gewehr98
+[2023.04.16-14.36.35:884][236]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/Gewehr98.Gewehr98
+[2023.04.16-14.36.36:488][303]BlueprintLog: New page: Compile Gewehr98
+[2023.04.16-14.36.36:605][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.04.16-14.36.39:406][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.36.39:526][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.16-14.36.39:572][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.04.16-14.36.39:600][497]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.04.16-14.36.39:600][497]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/VRTemplateMapC65B86D041B0DF8D5842A7A2E9EAA311.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.04.16-14.36.39:616][497]LogFileHelpers: No new changes to save!
+[2023.04.16-14.36.39:616][497]LogFileHelpers: Saving map 'VRTemplateMap' took 0.091
+[2023.04.16-14.36.39:621][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 215 ms (total: 1.90 sec)
+[2023.04.16-14.36.39:631][497]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.04.16-14.36.39:631][497]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.04.16-14.42.25:590][649]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.04.16-14.42.25:609][649]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.16-14.42.43:550][492]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.04.16-14.42.43:565][492]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.16-14.43.37:193][815]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.04.16-14.43.37:208][815]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.16-14.47.45:606][286]BlueprintLog: New page: Compile Gewehr98
+[2023.04.16-14.47.46:210][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.04.16-14.47.47:234][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.47.47:334][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Gewehr98" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset" SILENT=true
+[2023.04.16-14.47.47:375][358]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/Gewehr98
+[2023.04.16-14.47.47:376][358]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/Gewehr985437E488437F8BAD18EFB1A50DFC1BC9.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset'
+[2023.04.16-14.47.47:381][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 2.05 sec)
+[2023.04.16-14.47.47:388][358]AssetCheck: New page: Asset Save: Gewehr98
+[2023.04.16-14.47.47:388][358]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/Gewehr98.Gewehr98
+[2023.04.16-14.49.34:436][822]BlueprintLog: New page: Compile Gewehr98
+[2023.04.16-14.49.34:563][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.04.16-14.49.35:918][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.49.36:016][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Gewehr98" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset" SILENT=true
+[2023.04.16-14.49.36:059][914]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/Gewehr98
+[2023.04.16-14.49.36:059][914]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/Gewehr98E92A459648287A0D1D9B389FDBFA5F95.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset'
+[2023.04.16-14.49.36:064][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 2.19 sec)
+[2023.04.16-14.49.36:072][914]AssetCheck: New page: Asset Save: Gewehr98
+[2023.04.16-14.49.36:072][914]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/Gewehr98.Gewehr98
+[2023.04.16-14.55.10:695][443]BlueprintLog: New page: Compile Gewehr98
+[2023.04.16-14.55.10:811][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.04.16-14.55.11:862][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.55.12:023][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Gewehr98" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset" SILENT=true
+[2023.04.16-14.55.12:063][543]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/Gewehr98
+[2023.04.16-14.55.12:063][543]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/Gewehr98C08EACD2474A285E3AB0D9A479F5A9D2.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset'
+[2023.04.16-14.55.12:069][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 2.40 sec)
+[2023.04.16-14.55.12:079][543]AssetCheck: New page: Asset Save: Gewehr98
+[2023.04.16-14.55.12:079][543]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/Gewehr98.Gewehr98
+[2023.04.16-14.56.00:759][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.56.00:779][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Gewehr98" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset" SILENT=true
+[2023.04.16-14.56.00:818][ 48]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/Gewehr98
+[2023.04.16-14.56.00:818][ 48]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/Gewehr9818818F464D7861BFC4BCA5BAC9F5EFFF.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset'
+[2023.04.16-14.56.00:824][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2.47 sec)
+[2023.04.16-14.56.00:832][ 48]AssetCheck: New page: Asset Save: Gewehr98
+[2023.04.16-14.56.00:832][ 48]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/Gewehr98.Gewehr98
+[2023.04.16-14.56.01:669][142]BlueprintLog: New page: Compile Gewehr98
+[2023.04.16-14.56.01:790][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.16-14.56.03:253][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.56.03:344][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Gewehr98" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset" SILENT=true
+[2023.04.16-14.56.03:389][287]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/Gewehr98
+[2023.04.16-14.56.03:389][287]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/Gewehr987AD84AA44734D25D0F51AA93D73E4DE0.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset'
+[2023.04.16-14.56.03:395][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 2.61 sec)
+[2023.04.16-14.56.03:403][287]AssetCheck: New page: Asset Save: Gewehr98
+[2023.04.16-14.56.03:403][287]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/Gewehr98.Gewehr98
+[2023.04.16-14.56.04:545][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.56.04:618][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.16-14.56.04:660][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.04.16-14.56.04:678][402]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.04.16-14.56.04:679][402]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/VRTemplateMap2716013C47D644DD794FC5A2397BEAA2.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.04.16-14.56.04:688][402]LogFileHelpers: No new changes to save!
+[2023.04.16-14.56.04:688][402]LogFileHelpers: Saving map 'VRTemplateMap' took 0.070
+[2023.04.16-14.56.04:692][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 2.75 sec)
+[2023.04.16-14.56.04:699][402]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.04.16-14.56.04:699][402]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.04.16-14.56.11:368][  8]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.04.16-14.56.11:372][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-14.56.11:372][  8]PIE: New page: PIE session: VRTemplateMap (16.04.2023, 18:56:11)
+[2023.04.16-14.56.11:372][  8]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.16-14.56.11:381][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008927s)
+[2023.04.16-14.56.11:381][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.008951s)
+[2023.04.16-14.56.11:382][  8]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-14.56.11:382][  8]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.04.16-14.56.11:382][  8]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2023.04.16-14.56.11:422][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.04.16-14.56.11:423][  8]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.04.16-14.56.11:423][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-14.56.11:423][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-14.56.11:423][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-14.56.11:423][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-14.56.11:423][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-14.56.11:423][  8]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-14.56.11:423][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-14.56.11:423][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-14.56.11:424][  8]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.04.16-14.56.11:424][  8]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.04.16-14.56.11:424][  8]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-14.56.11:426][  8]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-14.56.11:456][  8]LogAudioMixer: Error: XAudio2 Error: Result -> 0x88890008: AUDCLNT_E_UNSUPPORTED_FORMAT (line: 1354)
+[2023.04.16-14.56.11:456][  8]LogAudioMixer: Display: Using Audio Hardware Device VIVE Pro (High Definition Audio Device)
+[2023.04.16-14.56.11:456][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-14.56.11:456][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-14.56.11:456][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-14.56.11:457][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.04.16-14.56.11:457][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.04.16-14.56.11:459][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.04.16-14.56.11:459][  8]LogInit: FAudioDevice initialized.
+[2023.04.16-14.56.11:459][  8]LogAudio: Display: Audio Device (ID: 11) registered with world 'VRTemplateMap'.
+[2023.04.16-14.56.11:459][  8]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20112
+[2023.04.16-14.56.11:459][  8]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=11
+[2023.04.16-14.56.11:471][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-14.56.12:001][  8]LogLoad: Game class is 'VRGameMode_C'
+[2023.04.16-14.56.12:006][  8]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.04.16-16.56.12
+[2023.04.16-14.56.12:007][  8]LogWorld: Bringing up level for play took: 0.005469
+[2023.04.16-14.56.12:009][  8]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.04.16-14.56.12:013][  8]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.04.16-14.56.12:017][  8]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.04.16-14.56.12:017][  8]Cmd: vr.PixelDensity 1.0
+[2023.04.16-14.56.12:017][  8]vr.PixelDensity = "1"
+[2023.04.16-14.56.12:028][  8]PIE: Server logged in
+[2023.04.16-14.56.12:034][  8]PIE: Play in editor total start time 0,662 seconds.
+[2023.04.16-14.56.12:078][  8]LogViewport: Scene viewport resized to 4936x2740, mode Windowed.
+[2023.04.16-14.56.12:177][  8]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.04.16-14.56.12:204][  8]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.04.16-14.56.32:965][848]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.56.33:710][915]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.56.33:710][915]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.56.35:367][ 41]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.56.36:154][ 89]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.56.36:154][ 89]LogBlueprintUserMessages: MyLog: Set Secondary Grip Controller
+[2023.04.16-14.56.36:708][139]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.56.38:085][263]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.56.48:603][163]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.56.48:603][163]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.56.49:392][234]LogBlueprintUserMessages: MyLog: Released Secondary Grip Controller
+[2023.04.16-14.56.49:935][283]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.56.50:103][298]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.56.50:103][298]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.56.53:890][614]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.56.54:400][660]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.56.55:021][716]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.56.55:693][776]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.56.56:576][856]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.56.57:612][949]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.57.01:508][300]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.57.05:084][622]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.57.08:104][871]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.57.11:925][215]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.57.20:366][975]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.57.20:366][975]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.57.23:909][270]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.57.35:811][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-14.57.35:811][223]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.16-14.57.35:838][223]LogSlate: Window 'ProjektC Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR SteamVR/OpenXR (0.1.0)' being destroyed
+[2023.04.16-14.57.35:841][223]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-14.57.35:842][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-14.57.35:844][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-14.57.35:851][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-14.57.35:892][223]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.04.16-14.57.35:892][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.04.16-14.57.35:893][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.04.16-14.57.35:896][223]LogSlate: Slate User Unregistered.  User Index 8
+[2023.04.16-14.57.35:896][223]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.04.16-14.57.35:898][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.04.16-14.57.35:919][224]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.04.16-14.58.09:553][728]BlueprintLog: New page: Compile Gewehr98
+[2023.04.16-14.58.09:668][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.04.16-14.58.10:885][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.58.10:980][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Gewehr98" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset" SILENT=true
+[2023.04.16-14.58.11:025][791]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/Gewehr98
+[2023.04.16-14.58.11:025][791]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/Gewehr985DD3D68048A219813582DE8D28B33A4D.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset'
+[2023.04.16-14.58.11:032][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 2.90 sec)
+[2023.04.16-14.58.11:040][791]AssetCheck: New page: Asset Save: Gewehr98
+[2023.04.16-14.58.11:040][791]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/Gewehr98.Gewehr98
+[2023.04.16-14.58.13:028][922]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.04.16-14.58.13:033][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.16-14.58.13:033][922]PIE: New page: PIE session: VRTemplateMap (16.04.2023, 18:58:13)
+[2023.04.16-14.58.13:033][922]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.16-14.58.13:039][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006395s)
+[2023.04.16-14.58.13:039][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.006420s)
+[2023.04.16-14.58.13:039][922]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.16-14.58.13:040][922]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.04.16-14.58.13:040][922]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2023.04.16-14.58.13:076][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.04.16-14.58.13:077][922]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.04.16-14.58.13:077][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.16-14.58.13:077][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.16-14.58.13:077][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.16-14.58.13:077][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.16-14.58.13:077][922]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.16-14.58.13:077][922]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.16-14.58.13:077][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.16-14.58.13:077][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.16-14.58.13:078][922]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.04.16-14.58.13:078][922]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.04.16-14.58.13:078][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.16-14.58.13:079][922]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.16-14.58.13:105][922]LogAudioMixer: Error: XAudio2 Error: Result -> 0x88890008: AUDCLNT_E_UNSUPPORTED_FORMAT (line: 1354)
+[2023.04.16-14.58.13:105][922]LogAudioMixer: Display: Using Audio Hardware Device VIVE Pro (High Definition Audio Device)
+[2023.04.16-14.58.13:105][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.16-14.58.13:105][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.16-14.58.13:105][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.16-14.58.13:106][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.04.16-14.58.13:106][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.04.16-14.58.13:107][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.04.16-14.58.13:107][922]LogInit: FAudioDevice initialized.
+[2023.04.16-14.58.13:107][922]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18596
+[2023.04.16-14.58.13:107][922]LogAudio: Display: Audio Device (ID: 12) registered with world 'VRTemplateMap'.
+[2023.04.16-14.58.13:107][922]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=12
+[2023.04.16-14.58.13:137][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-14.58.16:177][922]LogLoad: Game class is 'VRGameMode_C'
+[2023.04.16-14.58.16:183][922]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.04.16-16.58.16
+[2023.04.16-14.58.16:183][922]LogWorld: Bringing up level for play took: 0.005972
+[2023.04.16-14.58.16:185][922]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.04.16-14.58.16:187][922]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.04.16-14.58.16:191][922]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.04.16-14.58.16:192][922]Cmd: vr.PixelDensity 1.0
+[2023.04.16-14.58.16:192][922]vr.PixelDensity = "1"
+[2023.04.16-14.58.16:202][922]PIE: Server logged in
+[2023.04.16-14.58.16:209][922]PIE: Play in editor total start time 3,177 seconds.
+[2023.04.16-14.58.16:242][922]LogViewport: Scene viewport resized to 4936x2740, mode Windowed.
+[2023.04.16-14.58.16:334][922]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.04.16-14.58.16:360][922]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.04.16-14.58.24:570][604]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.58.24:570][604]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.58.25:251][648]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.58.25:914][685]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.58.30:811][101]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.58.31:533][166]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.58.39:242][860]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.58.43:328][228]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.58.55:779][326]LogBlueprintUserMessages: MyLog: Grab started
+[2023.04.16-14.58.55:779][326]LogBlueprintUserMessages: MyLog: Attached Main Grip Controller
+[2023.04.16-14.58.56:667][406]LogBlueprintUserMessages: MyLog: Detached Main Grip Controller
+[2023.04.16-14.59.11:155][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.16-14.59.11:155][447]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.16-14.59.11:188][447]LogSlate: Window 'ProjektC Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR SteamVR/OpenXR (0.1.0)' being destroyed
+[2023.04.16-14.59.11:192][447]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.16-14.59.11:192][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-14.59.11:195][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.16-14.59.11:201][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.16-14.59.11:241][447]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.04.16-14.59.11:241][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.04.16-14.59.11:242][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.04.16-14.59.11:245][447]LogSlate: Slate User Unregistered.  User Index 8
+[2023.04.16-14.59.11:245][447]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.04.16-14.59.11:247][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.04.16-14.59.11:273][448]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.04.16-14.59.17:319][797]BlueprintLog: New page: Compile Gewehr98
+[2023.04.16-14.59.17:439][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.16-14.59.18:667][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.59.18:810][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Gewehr98" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset" SILENT=true
+[2023.04.16-14.59.18:852][858]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/Gewehr98
+[2023.04.16-14.59.18:852][858]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/Gewehr9856A22002497C6F431F99E193A0515A79.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset'
+[2023.04.16-14.59.18:859][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 3.09 sec)
+[2023.04.16-14.59.18:865][858]AssetCheck: New page: Asset Save: Gewehr98
+[2023.04.16-14.59.18:866][858]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/Gewehr98.Gewehr98
+[2023.04.16-14.59.19:357][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.16-14.59.19:399][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Gewehr98" FILE="E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset" SILENT=true
+[2023.04.16-14.59.19:445][891]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/Gewehr98
+[2023.04.16-14.59.19:445][891]LogSavePackage: Moving 'E:/Unreal Projects/ProjektC/ProjektC/Saved/Gewehr98574919B442FEF826094938B2AD6FFFDB.tmp' to 'E:/Unreal Projects/ProjektC/ProjektC/Content/Blueprints/Weapons/Gewehr98.uasset'
+[2023.04.16-14.59.19:450][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 3.19 sec)
+[2023.04.16-14.59.19:457][891]AssetCheck: New page: Asset Save: Gewehr98
+[2023.04.16-14.59.19:457][891]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/Gewehr98.Gewehr98
